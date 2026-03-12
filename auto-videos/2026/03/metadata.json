@@ -1,0 +1,19 @@
+{
+  "title": "OpenClaw 原理解析",
+  "created_at": "2026-03-12T10:06:00+08:00",
+  "duration": "约1分28秒",
+  "resolution": "1920x1080 (1080p)",
+  "chapters": [
+    {"title": "OpenClaw 概述", "duration": "约20秒"},
+    {"title": "系统架构详解", "duration": "约21秒"},
+    {"title": "工作空间与核心文件", "duration": "约23秒"},
+    {"title": "记忆与技能系统", "duration": "约14秒"},
+    {"title": "总结", "duration": "约9秒"}
+  ],
+  "resources": {
+    "video": "OpenClaw_原理解析_Final.mp4",
+    "images": "chapter1.jpg - chapter5.jpg",
+    "audio": "chapter1.mp3 - chapter5.mp3"
+  },
+  "generator": "OpenClaw Auto-Video with coze-voice-gen + coze-image-gen + ffmpeg"
+}
