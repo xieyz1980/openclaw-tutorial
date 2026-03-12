@@ -1,0 +1,22 @@
+{
+  "title": "OpenClaw 原理解析",
+  "created_at": "$(date -Iseconds)",
+  "filename": "$(basename "$VIDEO_FILE")",
+  "duration_seconds": 300,
+  "style": "professional",
+  "resolution": "1080p",
+  "script": {
+    "title": "OpenClaw 原理解析",
+    "sections": [
+      {"section": 1, "title": "OpenClaw 概述", "duration": "60秒"},
+      {"section": 2, "title": "系统架构详解", "duration": "90秒"},
+      {"section": 3, "title": "工作空间与核心文件", "duration": "60秒"},
+      {"section": 4, "title": "记忆系统与 Skill 系统", "duration": "60秒"},
+      {"section": 5, "title": "实战案例演示", "duration": "30秒"}
+    ],
+    "total_duration": "300秒"
+  },
+  "generator": "OpenClaw Auto-Video Tool (Demo Mode)",
+  "version": "1.0.0",
+  "note": "此为演示版本，实际视频需配置 VIDEO_API_KEY 调用真实API生成"
+}
